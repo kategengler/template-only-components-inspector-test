@@ -1,0 +1,10 @@
+{
+  "name": "canary-test",
+  "dependencies": {
+    "ember": "components/ember#canary"
+  },
+  "resolutions": {
+    "ember": "canary"
+  }
+}
+
